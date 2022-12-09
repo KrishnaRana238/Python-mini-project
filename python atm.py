@@ -5,6 +5,7 @@ time.sleep(5)
 password=1234
 pin=int(input("Enter Your Pin "))
 balance=15000
+balance=15500
 
 if pin==password:
     while True:
